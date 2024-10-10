@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game development
 - 📫 How to reach me? You don't
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hate light mode users and apple users
+
 
 <!---
 ChecksMc/ChecksMc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
