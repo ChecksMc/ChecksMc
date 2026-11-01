@@ -10,6 +10,8 @@ I'm a student in Bavaria who likes exploring ideas by building things and writin
 
 I'm also exploring C++, linear algebra and etymology. I enjoy finding connections between subjects and following questions wherever they lead.
 
+[![Top Langs](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+
 Other Socials are at [Linktree](https://linktr.ee/checksmc)
 
 You can find more of my work in the repositories below.
